@@ -10,7 +10,7 @@ public class AddSubMulDiv {
 	}
 
 	
-	   static int a=3,b=5;
+	   static int a=3,b=6;
 	   
 	   public static void Addition() {
 		  int  Add=a+b;
